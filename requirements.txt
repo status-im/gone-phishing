@@ -14,5 +14,5 @@ rtmbot==0.4.0
 six==1.10.0
 slackclient==1.0.7
 uritemplate==3.0.0
-urllib3==1.23
+urllib3==1.24.2
 websocket-client==0.44.0
